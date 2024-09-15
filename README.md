@@ -7,7 +7,7 @@
        <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:260px;" />
 </a>
  # main
- ![image info](./PicOfBlocks\main-blocks.png)
+ ![image info](./PicOfBlocks/main-blocks.png)
  # Lcd Character
  ![image info](./PicOfBlocks/LCD-blocks.png)
  # Bluetooth Module 
