@@ -12,6 +12,8 @@
  ![image info](./PicOfBlocks/LCD-blocks.png)
  # Bluetooth Module 
  ![image info](./PicOfBlocks/Bluetooth-blocks.png)
+ # OLED Disply
+ ![image info](./PicOfBlocks/OLED-Blocks.png)
 
 
 
