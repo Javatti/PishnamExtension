@@ -3,7 +3,7 @@
  Open `MBlock.exe` and drag this `.mext` file Extension and Use it!
  And if you need to work with any module Check [Issues](https://github.com/Javatti/Extension/issues) or 
  <div id="badges" align="center">
-  <a href="https://t.me/sinisterjvd">
+  <a href="https://t.me/mhmdjvdkh">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"style="width:100px;"/>
   </a>
 </div>
