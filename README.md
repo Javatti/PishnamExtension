@@ -7,14 +7,17 @@
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"style="width:100px;"/>
   </a>
 </div>
- 
+
  |main|LCD|Bluetooth|OLED|TFT|
  |:-:|:-:|:-:|:-:|:-:|
  |OK✔|OK✔|OK✔|must be tested❔|must be tested❔|
 #
 ### راهنمای اضافه کردن فایل های کتابخانه اکستنشن
-مهم ترین نکته این است که حتما محتویات پوشه [Pishnam_Extention_Library](https://github.com/Javatti/Extension/tree/main/Pishnam_Extension_Library)  و یا محتویات فایل زیپ شده ی آن را پس از استخراج یا اکسترکت کردن [Pishnam_Extention_Library.rar](https://github.com/Javatti/Extension/raw/refs/heads/main/Pishnam_Extension_Library.rar) به آدرس زیر اضافه کنید.
-`C:\Users\Public\Programs\mblock\resources\ml\v1\external\arduino\avr-library\cores\arduino`
+مهم ترین نکته این است که حتما محتویات پوشه [Pishnam_Extention_Library](https://github.com/Javatti/Extension/tree/main/Pishnam_Extension_Library)  و یا محتویات فایل زیپ شده ی آن را پس از استخراج یا اکسترکت کردن [Pishnam_Extention_Library.rar](https://github.com/Javatti/Extension/raw/refs/heads/main/Pishnam_Extension_Library.rar) 
+به آدرس زیر اضافه کنید.
+```
+C:\Users\Public\Programs\mblock\resources\ml\v1\external\arduino\avr-library\cores\arduino 
+```
 #
   اگر دوست داشتی این اکستنشن را پس 
 <div id="badge" align="center">
