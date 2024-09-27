@@ -11,7 +11,11 @@
  |main|LCD|Bluetooth|OLED|TFT|
  |:-:|:-:|:-:|:-:|:-:|
  |OK✔|OK✔|OK✔|must be tested❔|must be tested❔|
-
+#
+### راهنمای اضافه کردن فایل های کتابخانه اکستنشن
+مهم ترین نکته این است که حتما محتویات پوشه `Pishnam_Extension_Library` را به آدرس زیر اضافه کنید.
+[آدرس](C:\Users\Public\Programs\mblock\resources\ml\v1\external\arduino\avr-library\cores\arduino)
+#
   اگر دوست داشتی این اکستنشن را پس 
 <div id="badge" align="center">
  <a href="http://www.coffeete.ir/javat">
